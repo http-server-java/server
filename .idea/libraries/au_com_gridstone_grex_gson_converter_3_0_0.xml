@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="au.com.gridstone:grex-gson-converter:3.0.0" type="repository">
+    <properties maven-id="au.com.gridstone:grex-gson-converter:3.0.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/grex-gson-converter-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/grex-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rxjava-1.0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
